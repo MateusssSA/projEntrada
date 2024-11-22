@@ -18,7 +18,8 @@ Projeto de apresentação WEB contendo redes sociais pessoais e Email.
 <br>
 
 <p align="center">
-    <img alt="projeto" src="Mateus-Bittencourt.png"
+    <img alt="projeto" src=[Mateus-Bittencourt](https://github.com/user-attachments/assets/801eff7e-7d31-4272-90fd-9365c6627eb4)
+
     width="100%"
 </p>
 
