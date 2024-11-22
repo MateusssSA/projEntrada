@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto feito especificamente para aprensentação pessoal, contendo redes sociais e Email. Elaborado cada detalhe afim de mostrar um pouco do meu trabalho.
+Projeto feito especificamente para apresentação pessoal, contendo redes sociais e Email. Elaborado cada detalhe afim de mostrar um pouco do meu trabalho.
 
 
 ## 🔖 Layout
